@@ -1,0 +1,5 @@
+@program	/testbin/64bit
+
+	'0xffffffff'
+	'val = 75bcd15'
+! - 'killed by kernel.'

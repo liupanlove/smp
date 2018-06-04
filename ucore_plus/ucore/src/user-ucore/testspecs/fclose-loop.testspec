@@ -1,0 +1,5 @@
+@program /testbin/fclose-loop
+
+	'close successful'
+! - 'user panic at .*'
+
