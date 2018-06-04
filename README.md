@@ -3,9 +3,9 @@
 
 
 ### 可参考资料
-https://github.com/mit-pdos/xv6-public  xv6的
-http://os.cs.tsinghua.edu.cn/oscourse/OS2013/projects/U01  ucore x86-64多核支持
-https://github.com/riscv-labs/OS2018spring-projects-g08  lc yzjc组的riscV的smp代码
+https://github.com/mit-pdos/xv6-public  xv6的  
+http://os.cs.tsinghua.edu.cn/oscourse/OS2013/projects/U01  ucore x86-64多核支持  
+https://github.com/riscv-labs/OS2018spring-projects-g08  lc yzjc组的riscV的smp代码  
 
 
 ### 主要的工作量
@@ -33,7 +33,7 @@ make sfsimg
 ```
 
 
-
+1. 分析ucore_plus的makefile
 
 
 
@@ -41,3 +41,22 @@ make sfsimg
 
 ### 特别鸣谢
 lc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+日志
+
+sv6 is a POSIX-like research operating system designed for multicore scalability based on xv6.  
+xv6 与 sv6 的关系类似于ucore 和 ucore_plus的关系
